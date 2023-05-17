@@ -6,7 +6,7 @@
 ### <div align="center">I'm Selma, a student of Information Technologies👨‍💻</div>  
   
 
-- 📚 Currently finishing my second year of undergraduate program  
+  
   
 
   
