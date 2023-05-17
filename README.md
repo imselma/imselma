@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/16hbz2Dty-TNKPk7ybgI4-j0xbEZAnLju/view?usp=sharing" align="center" style="width: 100%" />
+<img src="github-header-image.png" align="center" style="width: 100%" />
 </div>  
   
 
