@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A student of Information Technologies👨‍💻</div>  
+### <div align="center">Student of Information Technologies👨‍💻</div>  
   
 
   
